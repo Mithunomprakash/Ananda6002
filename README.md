@@ -33,6 +33,8 @@ I enjoy working across the frontend and backend, building applications with mode
 * Data Structures & Algorithms
 * Full-Stack Development
 * REST APIs
+* Improving problem-solving skills
+* Preparing for software development opportunities
 
 ### 🤝 Connect With Me
 
