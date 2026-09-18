@@ -36,8 +36,6 @@ I enjoy working across the frontend and backend, building applications with mode
 * Improving problem-solving skills
 * Preparing for software development opportunities
 
-<img src="https://komarev.com/ghpvc/?username=Ananda6002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
 ### 🤝 Connect With Me
 
 * [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/ananda-j-48b234293/)
