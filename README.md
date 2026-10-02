@@ -11,7 +11,7 @@ I enjoy working across the frontend and backend, building applications with mode
 ### 🛠️ Skills
 
 * **Languages:** C++, Python(basics), JavaScript
-* **Frontend:** HTML, CSS, React.js, Bootstrap
+* **Frontend:** HTML, CSS, React.js
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB
 * **Tools:** Git, GitHub, VS Code
