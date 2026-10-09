@@ -1,4 +1,4 @@
-# Hi, I'm Ananda👋
+# Hi, I'm Mithun👋
 
 ### Computer Science & Engineering Student | Full-Stack Developer
 
